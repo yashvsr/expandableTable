@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.App-header {
+  background-color: #282c34;
+  padding: 20px;
+  color: rgb(110, 151, 45);
+}
+
+main {
+  display: flex;
+  justify-content: center;
+  padding: 20px;
+  background-color: #e9f7e8;
+  /* Darker background color */
+}

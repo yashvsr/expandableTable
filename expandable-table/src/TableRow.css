@@ -1,0 +1,24 @@
+.table-row {
+    cursor: pointer;
+}
+
+.expand-button {
+    background: rgb(237, 146, 188);
+    border: 2px solid yellow;
+    /* Set border width and color */
+    border-radius: 0.5rem;
+    /* Make the button rounder */
+    color: blue;
+    cursor: pointer;
+    padding: 4px 6px;
+    /* Adjust padding for button size */
+}
+
+.child-row {
+    background-color: #c7dcbbf0;
+}
+
+.child-content {
+    margin-left: 20px;
+    /* Adjust this value to control the shift */
+}
